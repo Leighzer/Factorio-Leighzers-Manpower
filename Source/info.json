@@ -1,0 +1,11 @@
+{
+  "name": "leighzermanpower",
+  "version": "0.1.0",
+  "title": "Leighzer's Manpower",
+  "author": "Leighzer",
+  "contact": "Please message me on the factorio forums my username is leighzer.",
+  "homepage": "",
+  "factorio_version": "0.17",
+  "dependencies": [ "base >= 0.17"],
+  "description": "Simple configurable mod that adds a free handcraftable item that can be used as power. Useful for power death spirals or when you get stranded with your car in the boonies."
+}
