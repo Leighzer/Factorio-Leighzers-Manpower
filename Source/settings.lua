@@ -5,7 +5,7 @@ data:extend(
         name = "manpowerCraftingTime",
         setting_type = "startup",
         default_value = 5,
-        minimum_value = 1,
+        minimum_value = 0.01,
         maximum_value = 100000,
         order = "a"
     },
@@ -17,7 +17,7 @@ data:extend(
         default_value = 8,
         minimum_value = 1,
         maximum_value = 100000,
-        order = "a"
+        order = "b"
     },
 
     {
@@ -26,8 +26,8 @@ data:extend(
         setting_type = "startup",
         default_value = 10,
         minimum_value = 1,
-        maximum_value = 1000,
-        order = "a"
+        maximum_value = 100000,
+        order = "c"
     },
 
 })

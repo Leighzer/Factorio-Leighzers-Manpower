@@ -13,7 +13,7 @@ end
 
 require("prototypes")--prototypes for objects that exist in inventory
 
-table.insert(data.raw["player"]["player"].crafting_categories, "hand-crafting") -- add hand-crafting as category player can craft, no machines have this category, therefor it is exclusively craftable by the player
+table.insert(data.raw["character"]["character"].crafting_categories, "hand-crafting") -- add hand-crafting as category player can craft, no machines have this category, therefor it is exclusively craftable by the player
 
 
 
