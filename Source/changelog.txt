@@ -2,14 +2,14 @@
 Version: 0.1.2
   Changes:
     - Added proper changelog.
-    
+
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.1
   Changes:
     - Improved allowed range of values for settings.
-    
+
   Bugfixes:
-    - 0.17.35 fixes due to player rename.
+    - Fixes due to player rename.
 
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
