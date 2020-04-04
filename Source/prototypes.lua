@@ -8,7 +8,7 @@ data:extend({
     fuel_category = "chemical",
     fuel_value = tostring(leighzermods.leighzermanpower.manpowerFuelValue) .. "MJ",
     subgroup = "raw-material",
-    order = "a",
+    order = "za",
     stack_size = leighzermods.leighzermanpower.manpowerStackSize,
     },
     {
@@ -25,7 +25,7 @@ data:extend({
     result = "manpower-fuel",
     result_count = 1,
     subgroup = "raw-material",
-    order = "a"
+    order = "za"
     }
 
 })
